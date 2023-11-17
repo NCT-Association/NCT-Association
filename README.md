@@ -1,7 +1,7 @@
 <h1 align="center">Ni Hao, This is the NCT-Association</h1>
 <h3 align="center">  Passionate frontend global developers</h3>
 - We look to help those who were not given the chance to do what they loved (that is coding),we do not know much about coding, but we can help you get A whatsapp bot,or even create one.
-
+//lol
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.30fuPl3x9KvMB2ZYW0k7owHaEK?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NCT-Association&label=Profile%20views&color=0e75b6&style=flat" alt="NCT-Association" /> </p>
